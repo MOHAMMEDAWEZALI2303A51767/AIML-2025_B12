@@ -18,7 +18,7 @@
 
 1. [Lab 01](): Introduction to Python Libraries-Numpy
 2. [Lab 02](): Implement AI Search
-3. [Lab 03](): Implement AI Game Strategy
+3. [Lab 03](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/lab_03.ipynb): Implement AI Game Strategy
 4. [Lab 04](): Implement Linear Regression model using US Housing Data
 5. [Lab 05](): Logistic Regression with Titanic Data Set
 6. [Lab 06](): Implement the K Nearest Neighbour Classification using Classified Manufacturing Dataset
