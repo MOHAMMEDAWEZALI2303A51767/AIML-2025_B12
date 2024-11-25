@@ -16,8 +16,8 @@
 # Artificial Intelligence and Machine Learning Lab Jupiter Notebooks
 
 
-1. [Lab 01](): Introduction to Python Libraries-Numpy
-2. [Lab 02](): Implement AI Search
+1. [Lab 01](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/AIML_Lab01.ipynb): Introduction to Python Libraries-Numpy
+2. [Lab 02](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/Lab02_AIML.ipynb): Implement AI Search
 3. [Lab 03](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/lab_03.ipynb): Implement AI Game Strategy
 4. [Lab 04](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/Lab_4.ipynb): Implement Linear Regression model using US Housing Data
 5. [Lab 05](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/Lab_5.ipynb): Logistic Regression with Titanic Data Set
