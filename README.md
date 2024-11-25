@@ -12,7 +12,6 @@
 8. [Lab 08](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A8.pdf): Implement Decision Tree Classification using OpenML Car Dataset
 9. [Lab 09](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Model using Lending Data
 10. [Lab 10](https://github.com/tabraiz-1768/AIML-2025/blob/main/AIML_A10.pdf):  Implement K-Means Clustering using Synthetic Data
-11. [Lab 10.2]():Implement K-Means Clustering using Synthetic Data from Blobs
 
 # Artificial Intelligence and Machine Learning Lab Jupiter Notebooks
 
@@ -27,4 +26,3 @@
 8. [Lab 08](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/lab08_aiml.ipynb):Implement Decision Tree Classification using OpenML Car Dataset
 9. [Lab 09](https://github.com/MOHAMMEDAWEZALI2303A51767/AIML-2025_B12/blob/main/Lab09_AIML.ipynb): Implement Random Forest Ensemble Model using Lending Data
 10. [Lab 10]():  Implement K-Means Clustering using Synthetic Data
-11. [Lab 10.2]():Implement K-Means Clustering using Synthetic Data from Blobs
